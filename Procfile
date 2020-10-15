@@ -1,3 +1,3 @@
-web: sh setup.sh && streamlit run SpotifyData.py
+web: sh setup.sh && streamlit run sample.py
 
 
